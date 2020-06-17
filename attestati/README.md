@@ -22,8 +22,6 @@ Puoi scaricare il tuo attestato cliccando sul link corrispondente.
 
 [Attestati I](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_I.zip)
 
-[Attestati J](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_J.zip)
-
 [Attestati K](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_K.zip)
 
 [Attestati L](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_L.zip)
@@ -44,14 +42,6 @@ Puoi scaricare il tuo attestato cliccando sul link corrispondente.
 
 [Attestati T](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_T.zip)
 
-[Attestati U](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_U.zip)
-
 [Attestati V](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_V.zip)
-
-[Attestati W](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_W.zip)
-
-[Attestati X](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_X.zip)
-
-[Attestati Y](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_Y.zip)
 
 [Attestati Z](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_Z.zip)
