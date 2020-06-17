@@ -4,54 +4,54 @@ Abbiamo suddiviso gli attestati secondo l'iniziale del cognome (es. l'attestato 
 
 Puoi scaricare il tuo attestato cliccando sul link corrispondente.
 
-[Attestati A](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_A.zip)
+[Attestati A](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_A.zip)
 
-[Attestati B](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_B.zip)
+[Attestati B](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_B.zip)
 
-[Attestati C](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_C.zip)
+[Attestati C](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_C.zip)
 
-[Attestati D](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_D.zip)
+[Attestati D](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_D.zip)
 
-[Attestati E](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_E.zip)
+[Attestati E](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_E.zip)
 
-[Attestati F](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_F.zip)
+[Attestati F](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_F.zip)
 
-[Attestati G](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_G.zip)
+[Attestati G](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_G.zip)
 
-[Attestati H](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_H.zip)
+[Attestati H](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_H.zip)
 
-[Attestati I](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_I.zip)
+[Attestati I](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_I.zip)
 
-[Attestati J](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_J.zip)
+[Attestati J](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_J.zip)
 
-[Attestati K](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_K.zip)
+[Attestati K](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_K.zip)
 
-[Attestati L](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_L.zip)
+[Attestati L](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_L.zip)
 
-[Attestati M](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_M.zip)
+[Attestati M](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_M.zip)
 
-[Attestati N](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_N.zip)
+[Attestati N](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_N.zip)
 
-[Attestati O](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_O.zip)
+[Attestati O](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_O.zip)
 
-[Attestati P](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_P.zip)
+[Attestati P](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_P.zip)
 
-[Attestati Q](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_Q.zip)
+[Attestati Q](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_Q.zip)
 
-[Attestati R](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_R.zip)
+[Attestati R](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_R.zip)
 
-[Attestati S](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_S.zip)
+[Attestati S](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_S.zip)
 
-[Attestati T](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_T.zip)
+[Attestati T](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_T.zip)
 
-[Attestati U](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_U.zip)
+[Attestati U](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_U.zip)
 
-[Attestati V](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_V.zip)
+[Attestati V](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_V.zip)
 
-[Attestati W](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_W.zip)
+[Attestati W](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_W.zip)
 
-[Attestati X](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_X.zip)
+[Attestati X](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_X.zip)
 
-[Attestati Y](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_Y.zip)
+[Attestati Y](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_Y.zip)
 
-[Attestati Z](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_Z.zip)
+[Attestati Z](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/zip/attestati_Z.zip)
