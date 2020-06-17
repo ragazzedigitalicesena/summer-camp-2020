@@ -1,7 +1,7 @@
 # Attestati
 
 Abbiamo suddiviso gli attestati secondo l'iniziale del cognome (es. l'attestato di Alice Rossi si troverà in "Attestati R").
-.
+
 Puoi scaricare il tuo attestato cliccando sul link corrispondente.
 
 [Attestati A](https://github.com/ragazzedigitalicesena/summer-camp-2020/raw/master/attestati/attestati_A.zip)
